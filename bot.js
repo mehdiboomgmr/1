@@ -4,9 +4,9 @@ const client = new Discord.Client();
 console.log("Scrpit By Dream");
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("560756066980462625")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`7amza ba9ra`);
 }, 30)
 })
 
